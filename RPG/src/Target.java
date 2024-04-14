@@ -1,0 +1,1 @@
+public enum Target {enemy, self, ally, enemies, allies, depends, other}
